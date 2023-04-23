@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdulnsheikh/Virtual-Memory-Simulation/main/imageAssets/memory-stock-image.png" alt="Logo"  style="border-radius:50%">
+  <img src="https://raw.githubusercontent.com/abdulnsheikh/Virtual-Memory-Simulation/main/imageAssets/image.png" alt="Logo"  style="border-radius:50%">
 </p>
 
 
