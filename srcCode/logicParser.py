@@ -5,7 +5,7 @@
 # Course: Operating Systems
 
 from typing import List  # import the List type from the typing module
-from logicMap import MemMap  # import the MemMap class from the logicMap module
+from srcCode.logicMap import MemMap  # import the MemMap class from the logicMap module
 
 class theParser:
     """

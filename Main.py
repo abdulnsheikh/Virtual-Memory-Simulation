@@ -8,8 +8,8 @@
 import sys
 import os
 from typing import List
-from logicCache import MemCache
-from logicParser import theParser
+from srcCode.logicCache import MemCache
+from srcCode.logicParser import theParser
 
 # Initializing global variable theParser
 objectParser = None

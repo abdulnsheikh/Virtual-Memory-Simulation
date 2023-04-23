@@ -6,7 +6,7 @@
 
 from queue import Queue  # Importing Queue class from queue module
 from typing import List  # Importing List from typing module
-from logicMap import MemMap  # Importing MemMap class from logicMap module
+from srcCode.logicMap import MemMap  # Importing MemMap class from logicMap module
 
 class MemCache:
     def __init__(self, size: int, process_number: int): 
